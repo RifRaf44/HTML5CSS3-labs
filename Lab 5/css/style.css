@@ -12,11 +12,6 @@ body{
 	margin-right: auto;
 	padding:10px 5px 50px 5px;
 }
-
-#superSimpleDiv{
-	color:red;
-}
-
 .superSimpleClass{
-
+	color:red;
 }
