@@ -1,0 +1,13 @@
+.outer{
+	background-color: #EEE;
+	border-color: #1D1D1D;
+}
+.inner{
+	background-color: #DDD;
+	border-color: #34673E;
+}
+.inner-inner{
+	background-color: #CCC;
+	color: #AAA;
+	border-color: #456789;
+}

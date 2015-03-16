@@ -1,0 +1,25 @@
+.main{
+	font-family: verdana,sans-serif;
+	width: 65%;
+	margin-right: auto;
+	margin-left: auto;
+	padding:10px;
+	background-color: #6E6E6E;
+}
+.main h2{
+	color:#FFF;
+}
+
+.absolute-bottom{
+	height: 50px;
+	color: #BBB;
+	background-color: #6E6E6E
+}
+
+.right{
+
+}
+
+.left{
+	width:200px;
+}

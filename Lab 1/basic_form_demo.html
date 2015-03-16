@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Basic Form</title>
+</head>
+<body>
+
+	<h1>My basic form</h1>
+	<form action="/fakePlace" method="POST">
+		<label for="username">Username:</label> 
+		<input type="text" name="username" id="username"> <br>
+		<label for="password">Password:</label> 
+		<input type="text" name="password" id="password"> <br>
+		<select name="ddlUserTypes" id="userType">
+			<option value="Admin">Admin</option>
+			<option value="User">User</option>
+		</select> <br>
+		<input type="checkbox" name="chkBox" value="chkBox" id="userAgreement"> 		<label for="userAgreement">I agree with the terms & conditions</label> <br>
+		<input type="submit" name="submit" value="submit">
+
+	</form>
+</body>
+</html>
